@@ -1,0 +1,9 @@
+Components needed
+[] Board component
+[] Square component
+[] Header component
+[] Scorebaord component
+[] Result component
+[] Customizable button component
+[] Player picker component
+
